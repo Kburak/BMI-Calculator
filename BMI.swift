@@ -3,7 +3,7 @@
 //  BMI Calculator
 //
 //  Created by Burak Engin on 2.09.2020.
-//  Copyright © 2020 Angela Yu. All rights reserved.
+//  
 //
 
 import UIKit
